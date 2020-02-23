@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_config"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always"
+        android:title="Add" />
+    <item
+        android:id="@+id/config"
+        android:icon="@android:drawable/ic_menu_manage"
+        app:showAsAction="always"
+        android:title="Config" />
+    <item
+        android:id="@+id/sync"
+        android:icon="@android:drawable/ic_popup_sync"
+        app:showAsAction="always"
+        android:title="Sync" />
+
+</menu>

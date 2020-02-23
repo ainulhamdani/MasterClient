@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_edit_name"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Edit Device Name"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_edit_wifi"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Edit Device Wifi"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_del"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Delete device"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartHouseApp</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="wifi_warning_text">WARNING!!! This process cannot be undone, make sure you put the right ssid and password. After you save the wifi information, the device will be deleted Add the device back by connect to the wifi and scan by dns</string>
+    <string name="edit_device_wifi">Edit Device Wifi</string>
+    <string name="ssid">ssid</string>
+    <string name="password">password</string>
+</resources>
